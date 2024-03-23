@@ -1,0 +1,24 @@
+{
+  "name": "@codebase-rocket/rnw-helper-client",
+  "description": "Library to get client information in React Native and web applications.",
+  "version": "1.0.0",
+  "private": false,
+  "main": "./client",
+  "scripts": {},
+  "dependencies": {
+    "react-native-device-info": "^10.11.0",
+    "js-helper-utils": "npm:@codebase-rocket/js-helper-utils@^1.0.0"
+  },
+  "author": {
+    "name": "Anand Kumar Singh"
+  },
+  "contributors": [
+    {
+      "name": "Shivanshu Jindal"
+    }
+  ],
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "devDependencies": {}
+}
